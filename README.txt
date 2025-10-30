@@ -36,7 +36,7 @@ Liens Google Docs/Sheets (mode suggestion ON)
 - Rapport d’installation Odoo : https://docs.google.com/document/d/1Lr7UFc4lCB9nvy-9FR-YvM9TufGLWVKFRyf_spaRBU0/edit?usp=sharing
 - État de l’art (Google Doc) : https://docs.google.com/document/d/1HIIYePgeZQpSGmQGgKxtYLwFtBggyPtRyMIeSt139Oo/edit?usp=sharing
 - Politique IAM (Google Doc) : https://docs.google.com/document/d/1xcDyNNf5gIp1BfJDDwNDpDq6KtAOhtk4xCKemY8QB-s/edit?usp=sharing
-- Matrices IAM (Google Sheets) : <lien à insérer>
+- Matrices IAM (Google Sheets) : https://docs.google.com/spreadsheets/d/1REdui08MumUBl3s9l3Lz6KUxzNdF3o2hPNAvCn8jafk/edit?usp=sharing
 
 ⚠️ Donner les droits d’édition en SUGGESTION à : achibani@gmail.com
 
