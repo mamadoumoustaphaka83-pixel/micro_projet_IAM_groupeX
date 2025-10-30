@@ -34,7 +34,7 @@ Arborescence & Emplacements
 Liens Google Docs/Sheets (mode suggestion ON)
 ==========================
 - Rapport d’installation Odoo : https://docs.google.com/document/d/1Lr7UFc4lCB9nvy-9FR-YvM9TufGLWVKFRyf_spaRBU0/edit?usp=sharing
-- État de l’art (Google Doc) : <lien à insérer>
+- État de l’art (Google Doc) : https://docs.google.com/document/d/1HIIYePgeZQpSGmQGgKxtYLwFtBggyPtRyMIeSt139Oo/edit?usp=sharing
 - Politique IAM (Google Doc) : <lien à insérer>
 - Matrices IAM (Google Sheets) : <lien à insérer>
 
@@ -64,6 +64,7 @@ Historique / Versions
 ==========================
 - v0.1 : Initialisation du projet & export employees.csv
 - v1.0 : Ajout rapport installation Odoo + structure du projet
-- v2.0 : Ajout rapports finaux et matrices IAM
+- v2.0 : Ajout rapport État de l’art + mise à jour README
 
 Licence : projet académique - usage pédagogique uniquement.
+
