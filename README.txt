@@ -12,7 +12,6 @@ Auteurs / Rôles :
 - Arudshelvan Kopethan (Matrice IAM / Cas d’étude)
 - Mamadou Moustapha Ka (Rapport Politique IAM / MidPoint)
 
-Co-auteur à ajouter dans les Docs : achibani@gmail.com
 
 ==========================
 Arborescence & Emplacements
